@@ -18,9 +18,9 @@
  
  - 📫 How to reach me: my LinkedIn -> [Linkedin][linkedIn]
  
- - 🥅 2021 Goals: To Contribute ELRS Open source Repo [-> ELRS Repo][ELRS]
+ - 🥅 2021 Goals: To Contribute ELRS Open source Repo -> [ELRS Repo][ELRS]
  
- - ⚡ Fun fact: I also build and fly FPV drones check out my youtube channel : [Here][YT]
+ - ⚡ Fun fact: I also build and fly FPV drones check out my youtube channel : -> [Here][YT]
 
 
 
