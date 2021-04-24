@@ -7,11 +7,20 @@
 
 
 ## Welcome to my own github page! 😄
+ 
  - 🌱 I’m currently learning Computer science 
+ 
  -  Check out my latest works here -> [My Repos][repos]
+ 
  - 📫 How to reach me: my LinkedIn -> [Linkedin][linkedIn]
+ 
  - 🥅 2021 Goals: To Contribute ELRS Open source Repo [-> ELRS Repo][ELRS]
+ 
  - ⚡ Fun fact: I also build and fly FPV drones check out my youtube channel : [Here][YT]
+
+
+
+
 
 
 
