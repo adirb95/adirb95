@@ -7,6 +7,7 @@
 
 
 ## Welcome to my own github page! 😄
+# Im a computer science student that loves coding ,building drones and to be challenged!
  
  - 🌱 I’m currently learning Computer science 
  
