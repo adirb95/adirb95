@@ -10,7 +10,9 @@
 # Im a computer science student that loves coding ,building drones and to be challenged!
  
  - 🌱 I’m currently learning Computer science 
- 
+  
+ -  Right now i just keep enjoying the power of JAVA! but i keep on learning new lunguages every day! 🔭
+   
  -  Check out my latest works here -> [My Repos][repos]
  
  - 📫 How to reach me: my LinkedIn -> [Linkedin][linkedIn]
