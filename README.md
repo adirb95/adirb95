@@ -4,7 +4,7 @@
 [ELRS]: https://github.com/ExpressLRS/ExpressLRS
 
 ### Hi there 👋
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdzone.com%2Farticles%2Fprogrammers-code&psig=AOvVaw2dVa3NmmWugAG8dJMYyD2n&ust=1619373948358000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPir35m8l_ACFQAAAAAdAAAAABAh" alt="code img" width="1052" />]
+[<img src="https://ibb.co/64Fgmp2" alt="code img" width="1052" />]
 
 ## Welcome to my own github page! 😄
  - 🌱 I’m currently learning Computer science 
