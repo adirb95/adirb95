@@ -4,7 +4,7 @@
 [ELRS]: https://github.com/ExpressLRS/ExpressLRS
 
 ### Hi there 👋
-[<img src="https://ibb.co/64Fgmp2" alt="code img" width="1052" />]
+[<img src="https://i.ibb.co/K9WFXQY/thumb.jpg" alt="code img" width="1052" />]
 
 ## Welcome to my own github page! 😄
  - 🌱 I’m currently learning Computer science 
