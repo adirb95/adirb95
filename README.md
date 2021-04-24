@@ -22,6 +22,8 @@
  
  - ⚡ Fun fact: I also build and fly FPV drones check out my youtube channel : -> [Here][YT]
 
+ - Also i'm a hard core PC Gamer 😄
+
 
 
 
