@@ -1,7 +1,7 @@
-[linkedIn]:(https://www.linkedin.com/in/adir-baly-7b3284192)
-[repos]:(https://github.com/adirb95?tab=repositories)
-[YT]:(https://www.youtube.com/channel/UCwpIAfOBAog8cyZwIcQ9FdA)
-[ELRS]:(https://github.com/ExpressLRS/ExpressLRS)
+[linkedIn]: https://www.linkedin.com/in/adir-baly-7b3284192
+[repos]: https://github.com/adirb95?tab=repositories
+[YT]: https://www.youtube.com/channel/UCwpIAfOBAog8cyZwIcQ9FdA 
+[ELRS]: https://github.com/ExpressLRS/ExpressLRS
 
 ### Hi there 👋
 [<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdzone.com%2Farticles%2Fprogrammers-code&psig=AOvVaw2dVa3NmmWugAG8dJMYyD2n&ust=1619373948358000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPir35m8l_ACFQAAAAAdAAAAABAh" alt="code img" width="1052" />]
